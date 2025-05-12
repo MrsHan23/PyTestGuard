@@ -33,7 +33,7 @@ repositories {
 dependencies {
     testImplementation(libs.junit)
 
-    implementation("org.slf4j:slf4j-simple:2.0.13")
+    implementation("org.slf4j:slf4j-simple:2.0.17")
     implementation("io.github.oshai:kotlin-logging-jvm:7.0.3")
 
     // IntelliJ Platform Gradle Plugin Dependencies Extension - read more: https://plugins.jetbrains.com/docs/intellij/tools-intellij-platform-gradle-plugin-dependencies-extension.html
